@@ -1,4 +1,4 @@
 # Código simples utilizando HTML e VueJS 
 
-- Utilizando conceitos básicos do VueJS;
+- Sistema de comentários utilizando conceitos básicos do VueJS;
 
