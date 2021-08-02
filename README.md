@@ -2,4 +2,3 @@
 
 - Utilizando conceitos básicos do VueJS;
 
-```
